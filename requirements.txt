@@ -1,0 +1,8 @@
+tensorflow-gpu==2.6.0
+keras==2.6.0
+tensorflow-probability==0.14.1
+pandas==1.3.5
+matplotlib==3.5.3
+mujoco-py==2.1.2.14
+dm-control==0.0.364896371
+gym==0.26.2
