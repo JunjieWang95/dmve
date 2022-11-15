@@ -1,6 +1,6 @@
 # Dynamic-horizon Model-based Value Expansion (DMVE)
 
-This repository implements the main algorithm of DMVE described in "Dynamic-horizon Model-based Value Estimation with Latent Imagination" (IEEE Transactions on Neural Networks and Learning Systems).
+This repository implements the main algorithm of DMVE described in "[Dynamic-horizon Model-based Value Estimation with Latent Imagination](https://ieeexplore.ieee.org/document/9932637)" (IEEE Transactions on Neural Networks and Learning Systems).
 
 ## Method
 
@@ -38,4 +38,17 @@ Graphs and GIFs:
 
 ```
 tensorboard --logdir ./logdir
+```
+
+## Citation
+
+```
+@article{wang2022dynamic,
+  title={Dynamic-horizon model-based value estimation with latent imagination},
+  author={Wang, Junjie and Zhang, Qichao and Zhao, Dongbin},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022},
+  publisher={IEEE},
+  doi={10.1109/TNNLS.2022.3215788}
+}
 ```
